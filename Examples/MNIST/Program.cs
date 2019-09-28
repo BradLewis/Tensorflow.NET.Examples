@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MNIST.Example
+namespace MNIST
 {
     class Program
     {
