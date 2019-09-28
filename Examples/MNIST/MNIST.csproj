@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
@@ -7,6 +7,7 @@
 
   <ItemGroup>
     <PackageReference Include="SciSharp.TensorFlow.Redist" Version="1.14.0" />
+    <PackageReference Include="SciSharp.TensorFlowHub" Version="0.0.2" />
     <PackageReference Include="Tensorflow.NET" Version="0.11.4" />
   </ItemGroup>
 
